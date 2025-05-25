@@ -5,6 +5,7 @@ Este repositorio contiene el archivo APK instalable de la aplicación móvil **m
 ## 🔗 Enlace de descarga
 
 > 📦 [Descargar APK aquí](./myMind.apk)
+> o instalar el archivo llamado myMind.apk
 
 ✅ Asegúrate de permitir la instalación de aplicaciones desde fuentes externas en tu dispositivo Android.
 
